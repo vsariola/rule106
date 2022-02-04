@@ -1,0 +1,1 @@
+nasm rule106.asm -fbin -o rule106.com
